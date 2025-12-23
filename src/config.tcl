@@ -1,5 +1,5 @@
 # Target 100MHz (10.0ns period)
-set ::env(CLOCK_PERIOD) "10.0"
+set ::env(CLOCK_PERIOD) "5.0"
 
 # Focus on speed (Delay) over Area
 set ::env(SYNTH_STRATEGY) "DELAY 0"
